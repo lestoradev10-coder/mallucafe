@@ -1,0 +1,1497 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Title -->
+<!-- Primary SEO Meta Tags -->
+<meta name="description" content="Tune in to Mallu FM Radio, your USA-based Malayalam FM station, hosted by #RJShiby&Friends. Join us on a mission to spread smiles, joy, and positivity through Malayalam music and entertainment.">
+<meta name="keywords" content="USA Based Malayalam FM Radio, Mallu FM Radio USA, RJ Shiby, Spread Joy, Malayalam Music, Positive Malayalam Entertainment, Malayalam FM Station in America">
+<meta name="author" content="Mallu FM Radio">
+
+<!-- Social Media Meta Tags -->
+<meta property="og:title" content="Mallu FM Radio - USA Based Malayalam FM by #RJShiby&Friends">
+<meta property="og:description" content="Join #RJShiby&Friends on Mallu FM Radio for live Malayalam music and shows. We're on a mission to spread smiles, joy, and positivity across the USA.">
+<meta property="og:image" content="https://www.mallufm.com/assets/mallufm-logo.png"> 
+<meta property="og:url" content="https://www.mallufm.com">
+<meta property="og:type" content="website">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Mallu FM Radio - Spreading Smiles with #RJShiby&Friends">
+<meta name="twitter:description" content="Listen live to Mallu FM Radio for uplifting Malayalam music and shows with #RJShiby&Friends, spreading joy and positivity to the American Malayalam community.">
+<meta name="twitter:image" content="https://www.mallufm.com/assets/mallufm-logo-twitter.png"> 
+<title>Mallu FM Radio - USA Based Malayalam FM with #RJShiby&Friends</title>
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/images/logo/favicon1.png">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Fontawesome -->
+    <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+    <!-- Slick -->
+    <link rel="stylesheet" href="assets/css/slick.css">
+    <!-- line awesome -->
+    <link rel="stylesheet" href="assets/css/line-awesome.min.css">
+    <!-- Flaticon -->
+    <link rel="stylesheet" href="assets/css/flaticon.css">
+    <!-- Nice Select -->
+    <link rel="stylesheet" href="assets/css/nice-select.css">
+    <!-- Odometer -->
+    <link rel="stylesheet" href="assets/css/odometer.css">
+    <!-- Fraudio -->
+    <link rel="stylesheet" href="assets/css/fraudio.min.css">
+    <!-- Magnific Popup -->
+    <link rel="stylesheet" href="assets/css/magnific-popup.css">
+    <!-- Main css -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+
+</head>
+<style>
+   body,.bg-overlay-one::before {
+    background-color: #ffff;
+   }
+   .header-bottom {
+    background-color: #e1e1e1;
+   }
+   .footer-item__logo a img {
+    width: 100%;
+    height: 100%;
+    max-height: 100px;
+}
+h3{
+    color:black;
+}
+.team-two__title-link{
+    color:black;
+}
+.navbar-toggler.header-button {
+    color:black;
+}
+.header-top {
+    
+    padding: 4px 4px;
+    }
+  @media (min-width: 991px){
+    .banner {
+    margin-top: 5px;
+    }
+}
+ .event-item-two__title-link {
+    color: #141414;
+}
+    .nav-menu .nav-item .nav-link {
+    font-weight: 500;
+    font-size: 16px;
+    color: #000000 !important;}
+    .nav-menu .nav-item .nav-link:hover{
+        color:#1b873f;
+    }
+    .banner-two-right__play-img {
+        border-color:#f26a27;
+    }
+    .banner-content__title-colored{
+        color:#f26a27;
+    }
+    .section-heading__title-colored {
+    color: #f26a27;}
+    .section-heading__title,.banner-content__title{
+        color:#1b873f;
+    }
+    .banner-content__desc, .section-heading__desc{
+        color:black;
+    }
+    .tab-card__title,.tab-card__title-link,.tab-card__time 
+    {
+      color:black;
+    }
+    .banner-content__title-water {
+    
+    -webkit-text-stroke-color: #f26a27;
+    }
+    .btn--base.outline {
+    background-color: #229242;
+    }
+    .btn--base.style-two:hover{
+    background-color: #229242;
+    }
+    .live-youtube {
+        background-color: #229242;
+    }
+    .youtube-content__subtitle, .youtube-time__time  {
+        color:#bf1e2e;
+    }
+    .live-youtube.fraudio-container {
+        background-color: antiquewhite;
+    }
+    .youtube-rj__title {
+        background-color: #229242;
+    }
+    .tab-card{
+        background-color: white;
+    }
+    .rj-img-list__item{
+    
+       border-color: #f26a27;
+    }
+    .blog-item__timedate {
+        background-color: #f26a27;
+    }
+    .team-two__title-link{
+        color:black;
+    }
+    .icon-{
+        color: #f26a27;
+    }
+    .circle-audio-container .fraudio-play svg path {
+    fill:#f26a27;
+}
+.event-item-two__plus::before {
+    background-color: #229242;
+}
+.event-item-two__plus::after{
+    background-color: #f26a27;
+} 
+.event-date-list__item{
+    color:black;
+}
+.blog-item__title-link {
+    color:black;
+}
+.header-bottom.fixed-header {
+    background-color: #f26a27;
+}
+.footer-area.style-two {
+    background-color: #f26a27;
+    color: white;
+}
+.footer-menu__link {
+    color: #ffff;
+    }
+    .footer-menu__link {
+    color: #ffff;
+    }
+    .nav-item__icon-microphone{
+        color:#229242;
+    }
+    .team-two__rj {color:white;
+    }
+    .slick-dots li button {
+        color:#f26a27(255 0 0 / 60%);
+    }
+    .preloader1{
+  position: fixed;
+  z-index: 999999;
+  background-color:#fff;
+  width: 100%;
+  height: 100%;
+}
+.loader-p1{
+  border: 0 solid transparent;
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+  top: calc(50vh - 75px);
+  left: calc(50vw - 75px);
+}
+.loader-p1:before, .loader-p1:after{
+  content: '';
+  background-image: url('assets/images/logo/logos.png'); 
+  background-size: contain; 
+  background-repeat: no-repeat;
+  width: inherit;
+  height: inherit;
+  position: absolute;
+  top: 0;
+  left: 0;
+  animation: loader 2s linear infinite;
+  opacity: 0;
+}
+
+.loader-p1:before{
+  animation-delay: 0.5s;
+}
+
+
+@keyframes loader{
+  0%{
+    transform: scale(0);
+    opacity: 0;
+  }
+  50%{
+    opacity: 1;
+  }
+  100%{
+    transform: scale(1);
+    opacity: 0;
+  }
+ }
+ /* Saturday Special Banner */
+/* Saturday Special Banner */
+/* General Styling */
+.live-youtube-wrapper {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+/* Left Side Image Styling */
+.live-show-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    position: relative;
+}
+
+/* Countdown Overlay Styling */
+.countdown-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.7);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.countdown-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.countdown-timer {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+/* Right Side Styling */
+.saturday-special {
+    text-align: center;
+    background-color: #f26a27;
+    color: #333;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+.saturday-special h2 {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.saturday-special .event-time {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+/* Play Button Styling */
+.play-btn {
+    background-color: #ff5733;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.play-btn:hover {
+    background-color: #e14a2b;
+}
+
+
+
+.tab-list {
+            padding: 120px 0;
+            background-size: cover;
+            color: #fff;
+        }
+        .tab-list-wrapper {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        .saturday-heading {
+            font-size: 2.5rem;
+            font-weight: 700;
+            color: #fff;
+            margin-bottom: 40px;
+        }
+        .tab-card {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 8px;
+            padding: 20px;
+            color: #fff;
+            transition: background 0.3s ease;
+        }
+        .tab-card:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+        .tab-card__title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+        .tab-card__title-link {
+            color: #fff;
+            text-decoration: none;
+        }
+        .tab-card__time {
+            display: flex;
+            align-items: center;
+            font-size: 1rem;
+            margin-top: 10px;
+            color: #ccc;
+        }
+        .tab-card__icon {
+            margin-right: 8px;
+            font-size: 1.2rem;
+        }
+        .rj-img-list {
+            display: flex;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .rj-img-list__item {
+            width: 60px;
+            height: 60px;
+            overflow: hidden;
+            border-radius: 50%;
+        }
+        .rj-img-list__item img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+
+/* Country Time Section Styling */
+#countdowns {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+#countdowns p {
+    font-size: 1.2rem;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 5px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#countdowns p span {
+    font-weight: bold;
+    color: #f26a27;
+}
+
+
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    #countdowns p {
+        font-size: 1rem;
+        padding: 8px;
+    }
+}
+
+
+.saturday-program {
+    padding: 30px 0;
+    background-color: #f4f4f4;
+}
+
+.saturday-heading {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #f15a22;
+    margin-bottom: 40px;
+}
+
+.program-card {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.program-card-item {
+    background-color: #229242; /* Green background */
+    box-shadow: 6px 8px 10px rgba(238, 111, 6, 0.9); /* Orange shadow */
+    border-radius: 8px;
+    color: white;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    width: 400px;
+}
+
+.program-image {
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    opacity: 0.7;
+}
+
+.countdown-overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    z-index: 1;
+}
+
+.program-details {
+    padding: 20px;
+    z-index: 2;
+}
+
+.program-time {
+    font-size: 1.2rem;
+    color: #f15a22;
+    font-weight: bold;
+}
+
+.next-date {
+    font-size: 1rem;
+    color: #f8f5f5;
+}
+
+/* Responsive adjustments */
+@media (max-width: 992px) {
+    .program-card-item {
+        width: calc(50% - 20px); /* Two cards per row */
+    }
+}
+
+@media (max-width: 768px) {
+    .program-card-item {
+        width: 100%; /* One card per row */
+    }
+
+    .program-image {
+        height: 200px; /* Adjust image height for smaller screens */
+    }
+}
+    /* Additional Styles */
+    .countdown-timer h5 {
+        margin: 10px 0;
+        color: #333;
+    }
+    .schedule-list {
+        list-style: none;
+        padding: 0;
+        margin: 20px 0;
+    }
+    .schedule-list__item {
+        display: flex;
+        justify-content: space-between;
+        padding: 5px 0;
+        border-bottom: 1px solid #ccc;
+    }
+    .schedule-list__time {
+        font-weight: bold;
+        color: #bf1e2e;
+    }
+
+
+
+    .variety-programs {
+    background: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: Adds depth */
+}
+
+.program-list {
+    list-style: none;
+    padding: 0;
+    margin-top: 20px;
+}
+
+.program-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #bf1e2e;
+    margin-bottom: 5px;
+}
+
+.program-list li {
+    margin-bottom: 15px;
+}
+
+.program-list p {
+    margin: 0;
+    color: #555;
+    font-size: 15px;
+}
+
+.program-list h6 {
+    margin: 0;
+    color: #229242;
+    font-size: 18px;
+}
+
+.chart-list__content-title {
+    font-weight: bold;
+    font-size: 18px;
+    color: #333;
+}
+
+.section-heading__subtitle {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.section-heading__title {
+    font-size: 28px;
+    color: #333;
+}
+
+.section-heading__title-colored {
+    color: #bf1e2e;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .section-heading__title {
+        font-size: 24px;
+    }
+    .section-heading__subtitle {
+        font-size: 18px;
+    }
+    .program-list h6 {
+        font-size: 16px;
+    }
+    .program-list p {
+        font-size: 14px;
+    }
+    .program-list p {
+    margin: 0;
+    color: #fdfdfd;
+    font-size: 15px;
+}
+
+.program-list h6 {
+    margin: 0;
+    color: #74ee96;
+    font-size: 18px;
+}
+
+}
+
+
+
+
+/* Testimonials Section */
+.testimonials {
+    padding: 80px 0;
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+
+.testimonials h2 {
+    font-size: 2.5rem;
+    color:#229242;
+    text-shadow: 2px 2px 6px rgba(34, 139, 34, 0.3), 0px 2px 4px rgba(255, 165, 0, 0.4); /* Green and orange shadow effect */
+    margin-bottom: 50px;
+}
+
+.testimonial-item {
+    background: rgba(255, 255, 255, 0.8); /* Light background for each testimonial */
+    border-radius: 10px;
+    padding: 25px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1); /* Soft shadow for 3D effect */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.testimonial-item:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 6px 20px rgba(0, 0, 0, 0.2); /* Enhanced shadow on hover */
+}
+
+.testimonial-item img {
+    border: 3px solid #229242; /* Border for profile image matching theme */
+    box-shadow: 0 4px 10px rgba(0, 128, 0, 0.2);
+}
+
+.testimonial-name {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #f15a22;
+    margin-top: 10px;
+}
+
+.testimonial-designation {
+    font-size: 0.9rem;
+    color: #777;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.testimonial-desc {
+    font-size: 1rem;
+    color: #333;
+    line-height: 1.6;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .testimonials h2 {
+        font-size: 2rem;
+    }
+
+    .testimonial-item {
+        padding: 20px;
+    }
+
+    .testimonial-desc {
+        font-size: 0.95rem;
+    }
+}
+</style>
+<body>
+    
+<!--==================== Preloader Start ====================-->
+<div class="preloader1">
+    <div class="loader-p1"></div>
+</div>
+<!--==================== Preloader End ====================-->
+
+<!-- ==================== Header Top Start Here ==================== -->
+<div class="header-top">
+    <div class="container">
+        <div class="top-header-wrapper bg-img d-sm-flex flex-wrap justify-content-between align-items-center" style="background-image: url(assets/images/thumb/top-header-bg.png);"> 
+            <div class="top-contact">
+                <ul class="top-contact">
+                    <li class="top-contact__item">
+                        <span class="top-contact__item-icon"><span class="icon-clock-7"></span></span>
+                        6 am to 8 pm EST
+                    </li>
+                    <li class="top-contact__item">
+                        <span class="top-contact__item-icon"><span class="icon-telephone"></span></span>
+                        +1 832-377-6545
+                    </li>
+                </ul>
+            </div>   
+            <div class="top-socails">
+                <ul class="simple-socials">
+                    <li class="social-list__item"><a href="https://www.facebook.com/MalluCafeRadioUSA/" class="social-list__link"><span class="icon-facebook"></span></a> </li>
+                    <li class="social-list__item"><a href="https://www.instagram.com/mallucaferadiousa/" class="social-list__link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                        <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                      </svg></a></li>
+                    <li class="social-list__item"><a href="#" class="social-list__link"> <span class="icon-linkedin"></span></a></li>
+                </ul>
+            </div> 
+        </div>
+    </div>
+</div>
+<!-- ==================== Header Top End Here ==================== -->
+
+<!-- ==================== Bottom Header End Here ==================== -->
+<header class="header-bottom header-two" id="header">
+    <div class="container">
+        <nav class="navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand logo" href="home.html"><img src="assets/images/logo/logos.png" alt=""></a>
+            <button class="navbar-toggler header-button" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span id="hiddenNav"><i class="las la-bars"></i></span>
+            </button>
+            
+            <!-- <div class="signup-button d-lg-block d-none">
+                <a href="registration.html" class="btn--base">Sign Up Your Account</a>
+            </div> -->
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav nav-menu">
+                    <li class="nav-item">
+                        <a class="nav-link" href="home.html"> Home <span class="nav-item__icon"></span> <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span> </a>
+                       
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link style-two" href="about.html">About <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span></a>
+                    </li>
+                    <li class="nav-item ">
+                        <a class="nav-link style-two" href="show.html" > Shows <span class="nav-item__icon"></span> <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span> </a>
+                       
+                    </li> 
+                    <li class="nav-item">
+                        <a class="nav-link style-two"  aria-current="page"  href="event.html" > Event <span class="nav-item__icon"></span> <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span> </a>
+                      
+                    </li> 
+                  
+                    <li class="nav-item ">
+                        <a class="nav-link style-two" href="blog.html" > Blog <span class="nav-item__icon"></span> <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span> </a>
+                       
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link style-two"    href="contact.html">Contact <span class="nav-item__icon-microphone"><span class="icon-mic-1"></span></span> </a>
+                    </li>
+                    <!-- <li class="nav-item d-lg-none d-block">
+                        <div class="signup-button">
+                            <a href="registration.html" class="btn--base w-100 bg--base">Sign Up Your Account</a>
+                         </div>
+                    </li> -->
+                </ul>
+            </div>
+        </nav>
+    </div>
+</header>
+<!-- ==================== Bottom Header End Here ==================== -->
+
+<!-- ==================== Banner Start Here ==================== -->
+<section class="banner banner-two py-120 bg-img">
+    <div class="banner-two__bg">
+        <img src="assets/images/thumb/banner-bid.png" alt="">
+    </div>
+    <div class="container">
+        <div class="row gy-5 align-items-center">
+            <div class="col-lg-7">
+                <div class="banner-content">
+                    <h1 class="banner-content__title"><span class="banner-content__title-icon"><span class="icon-wifi"></span></span> <span class="banner-content__title-colored">The</span> biggest & hippest <span class="banner-content__title-colored">radio</span> <span class="banner-content__title-water">Station</span></h1>
+                    <p class="banner-content__desc">USA based Malayalam FM radio by RJ Shiby and Friends-On a mission to spread smile joy And positivity.
+
+
+</p>
+                    <ul class="button-list mt-5">
+                        <li class="button-list__item"><a href="#" class="button-list__link btn--base style-two">START NOW <span class="btn--base__icon"><span class="icon-play-button-4-1"></span> </span> </a></li>
+                        <li class="button-list__item"><a href="contact" class="button-list__link btn--base outline">CONTACT US <span class="btn--base__icon"><span class="icon-next"></span></span> </a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="banner-two-right">
+                    <div class="banner-two-right__thumb">
+                        <img src="assets/images/rjshiby.jpeg" alt="">
+                        <div class="banner-two-right__play-img">
+                            <img src="assets/images/shiby7.jpeg" alt="">
+                            <audio class="fraudio circle-audio center-position" style="background-color: transparent;">
+                                <source src="assets/audios/love.mp3" type="audio/mpeg">
+                            </audio>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==================== Banner End Here ==================== -->
+
+<!-- ======== live Youtube Start Here ====== -->
+<div class="live-youtube-wrapper style-two pb-120 pt-60 mt-0">
+    <div class="container">
+        <div class="live-youtube style-two">
+            <div class="row gy-4 align-items-center">
+                
+                <!-- Left Side: Image with Countdown Overlay -->
+                <div class="col-lg-6 position-relative">
+                    <div class="youtube-rj">
+                        <div class="youtube-rj__thumb">
+                            <img src="assets/images/Untitled design (2).png" alt="Next Live Show" class="live-show-image">
+                            <!-- Countdown Overlay -->
+                            <div class="countdown-overlay">
+                                <h2 class="countdown-text">Next Show on Saturday</h2>
+
+                                <div id="countdown-timer" class="countdown-timer"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Right Side: Saturday Special Details with countdowns for each time zone -->
+                <div class="col-lg-6 d-flex flex-column justify-content-center">
+                    <div class="saturday-special">
+                        <h2>🎉 Saturday Special! 🎉</h2>
+                        <p>Don't miss our exclusive show every Saturday.</p>
+                        
+                        <div id="countdowns">
+                            <p>USA: <span id="countdown-usa0"></span> (7 - 10 AM CST)</p>
+                            <p>UK: <span id="countdown-uk0"></span> (12 - 3 PM)</p>
+                            <p>UAE: <span id="countdown-uaeo"></span> (4 - 7 PM)</p>
+                            <p>India: <span id="countdown-india0"></span> (5:30 - 8:30 PM)</p>
+                        </div>
+                        <br><br>
+                        <audio class="fraudio play-button special-class mt-4" style="background-color: antiquewhite;">
+                            <source src="assets/audios/love.mp3" type="audio/mpeg">
+                        </audio>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ======== live Youtube End Here ======== -->
+
+<!-- ==================== Tab List Start Here ==================== -->
+<!-- Saturday Special Section -->
+<section class="saturday-program">
+    <div class="container">
+        <h2 class="saturday-heading">Saturday Special <br> Upcoming Show Timers</h2>
+
+        <div class="row gy-5 justify-content-center">
+            <!-- USA Countdown -->
+            <div class="col-lg-6 col-md-6 col-sm-12 program-card">
+                <h3 class="location-title">USA</h3>
+                <div class="program-card-item" data-time="10:00" data-days="6">
+                    <div class="countdown-overlay">
+                        <span class="countdown-text" id="countdown-usa">Countdown...</span>
+                    </div>
+                    <img src="images/mallu3.png" alt="USA Program" class="program-image">
+                    <div class="program-details">
+                        <h4 class="program-time">7:00 AM - 10:00 AM CST</h4>
+                        <p id="date-usa" class="next-date">Next Saturday: </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- UK Countdown -->
+            <div class="col-lg-6 col-md-6 col-sm-12 program-card">
+                <h3 class="location-title">UK</h3>
+                <div class="program-card-item" data-time="15:00" data-days="6">
+                    <div class="countdown-overlay">
+                        <span class="countdown-text" id="countdown-uk">Countdown...</span>
+                    </div>
+                    <img src="images/mallu2.jpg" alt="UK Program" class="program-image">
+                    <div class="program-details">
+                        <h4 class="program-time">12:00 PM - 3:00 PM</h4>
+                        <p id="date-uk" class="next-date">Next Saturday: </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- UAE Countdown -->
+            <div class="col-lg-6 col-md-6 col-sm-12 program-card">
+                <h3 class="location-title">UAE</h3>
+                <div class="program-card-item" data-time="19:00" data-days="6">
+                    <div class="countdown-overlay">
+                        <span class="countdown-text" id="countdown-uae">Countdown...</span>
+                    </div>
+                    <img src="images/mallu1.png" alt="UAE Program" class="program-image">
+                    <div class="program-details">
+                        <h4 class="program-time">4:00 PM - 7:00 PM</h4>
+                        <p id="date-uae" class="next-date">Next Saturday: </p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- India Countdown -->
+            <div class="col-lg-6 col-md-6 col-sm-12 program-card">
+                <h3 class="location-title">India</h3>
+                <div class="program-card-item" data-time="20:30" data-days="6">
+                    <div class="countdown-overlay">
+                        <span class="countdown-text" id="countdown-india">Countdown...</span>
+                    </div>
+                    <img src="images/mallu4.png" alt="India Program" class="program-image">
+                    <div class="program-details">
+                        <h4 class="program-time">5:30 PM - 8:30 PM</h4>
+                        <p id="date-india" class="next-date">Next Saturday: </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==================== Tab List End Here ==================== -->
+
+<!-- ==================== Team and Counter Start Here ==================== -->
+<section class="team-two py-120 bg-img" style="background-image: url(assets/images/thumb/tab-bg.png);">
+    <div class="team-wrapper">
+        <div class="container">
+            <div class="row ">
+                <div class="col-lg-3,">
+                    <div class="section-heading style-two">
+                        <h5 class="section-heading__subtitle" style="color:#bf1e2e"><span class="section-heading__bars bars-one"></span> Our jocky <span class="section-heading__bars bars-two"></span></h5>
+                        <h2 class="section-heading__title">Meet RJ Shiby & <span class="section-heading__title-colored"> Friends</span> </h2>
+                        <p class="section-heading__desc"></p>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-1 team-item-wrapper dots-right-top margin-in-slider justify-content-center gy-4">
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/1.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Shiby Roy</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/2.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Shijo</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/3.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Reeva</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/4.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Anjali</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/5.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Priyanka</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/6.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Neena</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+                 <div class="team-two">
+                    <div class="team-two__thumb">
+                        <img src="assets/images/11.png" alt="">
+                        <h1 class="team-two__rj"> RJ </h1>
+                    </div>
+                    <div class="team-two__content">
+                        <h3 class="team-two__title"><a href="" class="team-two__title-link" style="color:black;"></a>RJ Resh</h3>
+                        <span class="team-two__designation"></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==================== Team and Counter End Here ==================== -->
+
+<!-- ==================== Chart Start Here ==================== -->
+<section class="chart py-5 bg-img" style="background-image: url(assets/images/thumb/banner-bg.png);">
+    <div class="container">
+        <div class="chart__thumb text-center mb-4">
+            <img src="assets/images/Untitled design (3).png" alt="Chart Thumbnail" class="img-fluid">
+        </div>
+        <div class="row">
+            <!-- Left Side: Variety Programs -->
+            <div class="col-lg-3 col-md-6 mb-4">
+                <div class="programs-variety">
+                    <div class="section-heading style-two">
+                        <h5 class="section-heading__subtitle" style="color:#bf1e2e">
+                            <span class="section-heading__bars bars-one"></span> chart <span class="section-heading__bars bars-two"></span>
+                        </h5>
+                        <h2 class="section-heading__title">Our Top <span class="section-heading__title-colored">Broadcasts</span></h2>
+                    </div>
+                    <ul class="program-list">
+                        <li>
+                            <h6>Music Show</h6>
+                            <p>Enjoy a mix of Malayalam classics, pop hits, and movie soundtracks.</p>
+                        </li>
+                        <li>
+                            <h6>Cultural Insights</h6>
+                            <p>Dive into Kerala's festivals, art, and traditions in this cultural segment.</p>
+                        </li>
+                        <!-- <li>
+                            <h6>Celebrity Talk Show</h6>
+                            <p>Catch interviews with Malayalam stars, musicians, and influencers.</p>
+                        </li>
+                        <li>
+                            <h6>Comedy Skits</h6>
+                            <p>Light-hearted comedy to bring a smile to your day.</p>
+                        </li>
+                        <li>
+                            <h6>News & Current Affairs</h6>
+                            <p>Stay updated with news and current events relevant to Kerala.</p>
+                        </li> -->
+                    </ul>
+                </div>
+                <div class="row gy-4">
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe 
+                                src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/MalluCafeRadioUSA/videos/1686129475253351/&show_text=false&width=500" 
+                                width="100%" 
+                                height="330" 
+                                style="border:none;overflow:hidden" 
+                                scrolling="no" 
+                                frameborder="0" 
+                                allowTransparency="true" 
+                                allow="encrypted-media" 
+                                allowFullScreen="true">
+                            </iframe>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe 
+                                src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/MalluCafeRadioUSA/videos/25335425916103991/&show_text=false&width=500" 
+                                width="100%" 
+                                height="330" 
+                                style="border:none;overflow:hidden" 
+                                scrolling="no" 
+                                frameborder="0" 
+                                allowTransparency="true" 
+                                allow="encrypted-media" 
+                                allowFullScreen="true">
+                            </iframe>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe 
+                                src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/MalluCafeRadioUSA/videos/912578333821327/&show_text=false&width=500" 
+                                width="100%" 
+                                height="330" 
+                                style="border:none;overflow:hidden" 
+                                scrolling="no" 
+                                frameborder="0" 
+                                allowTransparency="true" 
+                                allow="encrypted-media" 
+                                allowFullScreen="true">
+                            </iframe>
+                        </div>
+                    </div>
+                          <div class="col-lg-6 col-md-6 col-sm-12">
+                        <div class="video-responsive">
+                            <iframe 
+                                src="https://www.facebook.com/plugins/video.php?href=https://www.facebook.com/MalluCafeRadioUSA/videos/960254405755647/&show_text=false&width=500" 
+                                width="100%" 
+                                height="330" 
+                                style="border:none;overflow:hidden" 
+                                scrolling="no" 
+                                frameborder="0" 
+                                allowTransparency="true" 
+                                allow="encrypted-media" 
+                                allowFullScreen="true">
+                            </iframe>
+                        </div>
+                    </div>
+
+                </div>
+                                           
+            </div>
+
+            <!-- Right Side: Top Broadcasts -->
+            <div class="col-lg-6 col-md-12 mb-4">
+                <ul class="chart-list">
+                    <li class="chart-list__item">
+                        <!-- Audio player or additional content -->
+                    </li>
+                    <!-- Additional broadcasts as listed -->
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==================== Chart End Here ==================== -->
+
+<!-- ==================== Event Start Here ==================== -->
+<section class="event py-120">
+    <div class="container">
+        <div class="row ">
+            <div class="col-lg-12">
+                <div class="section-heading">
+                    <h5 class="section-heading__subtitle" style="color:#bf1e2e"><span class="section-heading__bars bars-one"></span> latest events<span class="section-heading__bars bars-two"></span></h5>
+                    <h2 class="section-heading__title"> <span class="section-heading__title-colored"> Events</span> </h2>
+                    <p class="section-heading__desc"></p>
+                </div>
+            </div>
+        </div>
+        <div class="row gy-5 justify-content-center">
+            <div class="col-lg-4 col-md-6">
+                <div class="event-item-two">
+                    <div class="event-item-two__thumb">
+                        <img src="assets/images/blogimg1.png" alt="">
+                        <a class="event-item-two__plus" href="assets/images/blogimg1.png"> <span class="event-item-two__plus-icon"><i class="las la-plus"></i></span> </a>
+                    </div>
+                    <div class="event-item-two__content">
+                        <h3 class="event-item-two__title"><a href="" class="event-item-two__title-link"></a></h3>
+                        <ul class="event-date-list style-two"> 
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-calendar-6"></span></span> 22 december</li>
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-clock-7"></span></span> 11:00PM</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="event-item-two">
+                    <div class="event-item-two__thumb">
+                        <img src="assets/images/blogimg2.png" alt="">
+                        <a class="event-item-two__plus" href="assets/images/blogimg2.png"> <span class="event-item-two__plus-icon"><i class="las la-plus"></i></span> </a>
+                    </div>
+                    <div class="event-item-two__content">
+                        <h3 class="event-item-two__title"><a href="" class="event-item-two__title-link"></a></h3>
+                        <ul class="event-date-list style-two"> 
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-calendar-6"></span></span> 22 december</li>
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-clock-7"></span></span> 11:00PM</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <div class="event-item-two">
+                    <div class="event-item-two__thumb">
+                        <img src="assets/images/blogimg3.png" alt="">
+                        <a class="event-item-two__plus" href="assets/images/blogimg3.png"> <span class="event-item-two__plus-icon"><i class="las la-plus"></i></span> </a>
+                    </div>
+                    <div class="event-item-two__content">
+                        <h3 class="event-item-two__title"><a href="" class="event-item-two__title-link"></a></h3>
+                        <ul class="event-date-list style-two"> 
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-calendar-6"></span></span> 22 december</li>
+                            <li class="event-date-list__item"> <span class="event-date-list__icon"><span class="icon-clock-7"></span></span> 11:00PM </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ==================== Event End Here ==================== -->
+
+<!-- ==================== Testimonails Start Here ==================== -->
+<section class="testimonials bg-img py-120" style="background-image: url(assets/images/thumb/testimonials-bg.png);">
+    <div class="container">
+        <h2 class="text-center mb-4">What Our Customers Say</h2> <!-- Section Heading -->
+        <div class="row gy-4">
+            <!-- Testimonial Item -->
+            <div class="col-lg-4 col-md-6">
+                <div class="testimonial-item text-center">
+                    <img src="images/person.jpeg" alt="John Doe" class="rounded-circle mb-3" style="width: 100px; height: 100px;">
+                    <h3 class="testimonial-name">John Doe</h3>
+                    <span class="testimonial-designation">Regular Customer</span>
+                    <p class="testimonial-desc">"Mallu Cafe FM offers a fantastic dining experience! The ambiance is perfect for a family outing."</p>
+                </div>
+            </div>
+            <!-- Testimonial Item -->
+            <div class="col-lg-4 col-md-6">
+                <div class="testimonial-item text-center">
+                    <img src="images/person.jpeg" alt="Jane Smith" class="rounded-circle mb-3" style="width: 100px; height: 100px;">
+                    <h3 class="testimonial-name">Jane Smith</h3>
+                    <span class="testimonial-designation">Food Blogger</span>
+                    <p class="testimonial-desc">"Every dish I've tried is bursting with authentic flavors. A must-visit for anyone!"</p>
+                </div>
+            </div>
+            <!-- Testimonial Item -->
+            <div class="col-lg-4 col-md-6">
+                <div class="testimonial-item text-center">
+                    <img src="images/person.jpeg" alt="Emily Johnson" class="rounded-circle mb-3" style="width: 100px; height: 100px;">
+                    <h3 class="testimonial-name">Emily Johnson</h3>
+                    <span class="testimonial-designation">Frequent Visitor</span>
+                    <p class="testimonial-desc">"The atmosphere and service are outstanding! Can't wait to come back."</p>
+                </div>
+            </div>
+            <!-- Add more testimonials as needed -->
+        </div>
+    </div>
+</section>
+<!-- ==================== Testimonails End Here ==================== -->
+
+
+
+
+
+ <!-- ==================== Footer End Here ==================== -->
+ <footer class="footer-area style-two bg-img" style="background-image: url(assets/images/thumb/footer-bid.png);">
+    <div class="container footer-top py-60">
+        <div class="row justify-content-center gy-5">
+            <div class="col-xl-3 col-sm-6">
+                <div class="footer-item">
+                    <div class="footer-item__logo">
+                        <a href="home"> <img src="assets/images/logo/logos.png" alt=""></a>
+                    </div>
+                    <p class="footer-item__desc">USA Based Malayalam FM Radio
+                        by RJShiby&Friends,On a Mission To Spread Smile,Joy & Positivity.
+                        </p>
+                    <ul class="social-list style-two">
+                        <li class="social-list__item"><a href="https://www.facebook.com/MalluCafeRadioUSA/" class="social-list__link"><span class="icon-facebook"></span></a> </li>
+                        <li class="social-list__item"><a href="https://www.instagram.com/mallucaferadiousa/" class="social-list__link"><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-instagram" viewBox="0 0 16 16">
+                            <path d="M8 0C5.829 0 5.556.01 4.703.048 3.85.088 3.269.222 2.76.42a3.9 3.9 0 0 0-1.417.923A3.9 3.9 0 0 0 .42 2.76C.222 3.268.087 3.85.048 4.7.01 5.555 0 5.827 0 8.001c0 2.172.01 2.444.048 3.297.04.852.174 1.433.372 1.942.205.526.478.972.923 1.417.444.445.89.719 1.416.923.51.198 1.09.333 1.942.372C5.555 15.99 5.827 16 8 16s2.444-.01 3.298-.048c.851-.04 1.434-.174 1.943-.372a3.9 3.9 0 0 0 1.416-.923c.445-.445.718-.891.923-1.417.197-.509.332-1.09.372-1.942C15.99 10.445 16 10.173 16 8s-.01-2.445-.048-3.299c-.04-.851-.175-1.433-.372-1.941a3.9 3.9 0 0 0-.923-1.417A3.9 3.9 0 0 0 13.24.42c-.51-.198-1.092-.333-1.943-.372C10.443.01 10.172 0 7.998 0zm-.717 1.442h.718c2.136 0 2.389.007 3.232.046.78.035 1.204.166 1.486.275.373.145.64.319.92.599s.453.546.598.92c.11.281.24.705.275 1.485.039.843.047 1.096.047 3.231s-.008 2.389-.047 3.232c-.035.78-.166 1.203-.275 1.485a2.5 2.5 0 0 1-.599.919c-.28.28-.546.453-.92.598-.28.11-.704.24-1.485.276-.843.038-1.096.047-3.232.047s-2.39-.009-3.233-.047c-.78-.036-1.203-.166-1.485-.276a2.5 2.5 0 0 1-.92-.598 2.5 2.5 0 0 1-.6-.92c-.109-.281-.24-.705-.275-1.485-.038-.843-.046-1.096-.046-3.233s.008-2.388.046-3.231c.036-.78.166-1.204.276-1.486.145-.373.319-.64.599-.92s.546-.453.92-.598c.282-.11.705-.24 1.485-.276.738-.034 1.024-.044 2.515-.045zm4.988 1.328a.96.96 0 1 0 0 1.92.96.96 0 0 0 0-1.92m-4.27 1.122a4.109 4.109 0 1 0 0 8.217 4.109 4.109 0 0 0 0-8.217m0 1.441a2.667 2.667 0 1 1 0 5.334 2.667 2.667 0 0 1 0-5.334"/>
+                          </svg></a></li>
+                        <li class="social-list__item"><a href="#" class="social-list__link"> <span class="icon-linkedin"></span></a></li>
+
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6">
+                <div class="footer-item">
+                    <h5 class="footer-item__title">Quick Links</h5>
+                    <ul class="footer-menu">
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="index" class="footer-menu__link">Home </a></li>
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="about" class="footer-menu__link">About Us</a></li>
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="show" class="footer-menu__link">Shows</a></li>
+                       
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6">
+                <div class="footer-item">
+                    <h5 class="footer-item__title">Pages</h5>
+                    <ul class="footer-menu">
+                       
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="event" class="footer-menu__link">Event</a></li>
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="blog" class="footer-menu__link">Blog</a></li>
+                
+                        <li class="footer-menu__item"> <span class="footer-menu__item-icon"><span class="icon-next-8"></span></span> <a href="contact" class="footer-menu__link">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-xl-3 col-sm-6">
+                <div class="footer-item">
+                    <h5 class="footer-item__title">download our apps</h5>
+                    <ul class="download-list">
+                        <li class="download-list__item">
+                            <a href="#" class="download-list__link w-100">
+                                <div class="download-list__icon">
+                                    <img src="assets/images/icons/play-icon.png" alt="">
+                                </div>
+                                <div class="download-list__content">
+                                    <span class="download-list__subtitle">Available On</span>
+                                    <span class="download-list__title">Google Store</span>
+                                </div>
+                            </a>
+                        </li>
+                        <li class="download-list__item">
+                            <a href="#" class="download-list__link w-100">
+                                <div class="download-list__icon">
+                                    <img src="assets/images/icons/apple.png" alt="">
+                                </div>
+                                <div class="download-list__content">
+                                    <span class="download-list__subtitle">Available On</span>
+                                    <span class="download-list__title">Apple Store</span>
+                                </div>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- bottom Footer -->
+<div class="bottom-footer pb-3">
+    <div class="container">
+        <div class="row gy-3">
+            <div class="col-md-12 text-center">
+                <div class="bottom-footer-text text-white"> Copyright © 2024 All Right Reserved.</div>
+            </div>
+        </div>
+    </div>
+</div>
+</footer>
+<!-- ==================== Footer End Here ==================== -->
+<a class="scroll-top"><i class="fas fa-angle-double-up"></i></a>
+
+<script>
+function getNextSaturday() {
+    const today = new Date();
+    const nextSaturday = new Date(today);
+
+    // Calculate days until next Saturday
+    let daysUntilSaturday = (6 - today.getDay() + 7) % 7;
+    if (daysUntilSaturday === 0) {
+        daysUntilSaturday += 7; // If today is Saturday, set it to next Saturday
+    }
+    
+    // Set next Saturday's date
+    nextSaturday.setDate(today.getDate() + daysUntilSaturday);
+    
+    // Format the date to 'Month Day, Year'
+    const options = { month: 'long', day: 'numeric', year: 'numeric' };
+    return nextSaturday.toLocaleDateString('en-US', options);
+}
+
+function setNextSaturdayDate() {
+    const nextSaturday = getNextSaturday();
+    
+    // Set the date in each program card
+    // Using only a single message with "Next Saturday: "
+    const dateText = `Next Saturday: ${nextSaturday}`;
+    document.getElementById('date-usa').textContent = dateText;
+    document.getElementById('date-uk').textContent = dateText;
+    document.getElementById('date-uae').textContent = dateText;
+    document.getElementById('date-india').textContent = dateText;
+}
+
+function getNextSaturdayCountdown() {
+    const today = new Date();
+    let dayOfWeek = today.getDay();
+    let daysUntilSaturday = 6 - dayOfWeek;
+    if (daysUntilSaturday <= 0) {
+        daysUntilSaturday += 7; // If today is Saturday, go to the next Saturday
+    }
+
+    // Define show times for each region in hours
+    const timeZones = [
+        { id: 'countdown-usa', offset: -6, hour: 7 },  // 7 AM CST (USA)
+        { id: 'countdown-uk', offset: 0, hour: 12 },   // 12 PM (UK)
+        { id: 'countdown-uae', offset: 4, hour: 16 },  // 4 PM (UAE)
+        { id: 'countdown-india', offset: 5.5, hour: 17 } // 5:30 PM (India)
+    ];
+
+    // Set the next Saturday's date in the program cards
+    setNextSaturdayDate();
+
+    // Countdown for each time zone
+    const interval = setInterval(() => {
+        timeZones.forEach(zone => {
+            const now = new Date();
+            const nextSaturday = new Date(
+                now.getFullYear(),
+                now.getMonth(),
+                now.getDate() + daysUntilSaturday,
+                zone.hour
+            );
+
+            // Adjust the nextSaturday to the local time in each time zone
+            nextSaturday.setHours(nextSaturday.getHours() + zone.offset);
+
+            const timeRemaining = nextSaturday - now;
+
+            const countdownElement = document.getElementById(zone.id);
+
+            // Display the countdown or "Live Now!" if the show has started
+            if (timeRemaining <= 0) {
+                countdownElement.innerText = "Live Now!";
+            } else {
+                const days = Math.floor(timeRemaining / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((timeRemaining / (1000 * 60 * 60)) % 24);
+                const minutes = Math.floor((timeRemaining / (1000 * 60)) % 60);
+                const seconds = Math.floor((timeRemaining / 1000) % 60);
+                countdownElement.innerText = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+            }
+        });
+    }, 1000);
+}
+
+// Initialize countdown timer on DOMContentLoaded
+document.addEventListener('DOMContentLoaded', () => {
+    setNextSaturdayDate();
+    getNextSaturdayCountdown();
+});
+
+function startCountdown() {
+    const programCards = document.querySelectorAll('.program-card-item');
+
+    programCards.forEach(card => {
+        const countdownText = card.querySelector('.countdown-text');
+        const time = card.getAttribute('data-time');
+        const daysUntil = parseInt(card.getAttribute('data-days'), 10);
+
+        function getNextTargetDate() {
+            const targetDate = new Date();
+            const dayDifference = (7 - targetDate.getDay() + daysUntil) % 7;
+            targetDate.setDate(targetDate.getDate() + dayDifference);
+            targetDate.setHours(parseInt(time.split(':')[0]), parseInt(time.split(':')[1]), 0, 0);
+            return targetDate;
+        }
+
+        let targetDate = getNextTargetDate();
+
+        function updateCountdown() {
+            const now = new Date();
+            const distance = targetDate - now;
+
+            if (distance > 0) {
+                const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+                countdownText.innerHTML = `${days}d ${hours}h ${minutes}m ${seconds}s`;
+            } else {
+                countdownText.innerHTML = "Show is live now!";
+                if (now.getDay() === 6 && now.getHours() === 0 && now.getMinutes() === 0) {
+                    // Reset the countdown for the next week
+                    targetDate = getNextTargetDate();
+                }
+            }
+        }
+
+        updateCountdown();
+        setInterval(updateCountdown, 1000);
+    });
+}
+
+document.addEventListener('DOMContentLoaded', startCountdown);
+
+
+    // Countdown Timer JavaScript
+    const countdownElement = document.getElementById('countdown');
+    const targetTime = new Date().getTime() + (2 * 60 * 60 * 1000); // 2 hours from now
+
+    const updateCountdown = () => {
+        const now = new Date().getTime();
+        const distance = targetTime - now;
+
+        const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+        countdownElement.innerHTML = `${hours}:${minutes}:${seconds}`;
+
+        if (distance < 0) {
+            clearInterval(timer);
+            countdownElement.innerHTML = "Show Started!";
+        }
+    };
+
+    const timer = setInterval(updateCountdown, 1000);
+
+</script>
+<script> $(window).on("load", function(){
+    $('.preloader1').fadeOut(); 
+  })</script>
+<!-- Jquery js -->
+<script src="assets/js/jquery-3.6.0.min.js"></script>
+<!-- Popper js -->
+<script src="assets/js/popper.min.js"></script>
+<!-- Bootstrap js -->
+<script src="assets/js/bootstrap.min.js"></script>
+<!-- Slick js -->
+<script src="assets/js/slick.min.js"></script>
+<!-- nice Select js -->
+<script src="assets/js/jquery.nice-select.min.js"></script>
+<!-- Odometer js -->
+<script src="assets/js/odometer.min.js"></script>
+<!-- Viewport js -->
+<script src="assets/js/viewport.jquery.js"></script>
+<!-- Fraudio js -->
+<script src="assets/js/fraudio.min.js"></script>
+<!-- Magnific Popup js -->
+<script src="assets/js/magnific-popup.min.js"></script>
+<!-- Main js -->
+<script src="assets/js/main.js"></script>
+
+</body>
+</html>
